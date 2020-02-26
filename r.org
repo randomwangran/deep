@@ -1,2 +1,5 @@
 *zoom
 https://en.wikipedia.org/wiki/Deep_Zoom
+
+*fake
+https://youtu.be/8XkcbdSRdO0?t=404
